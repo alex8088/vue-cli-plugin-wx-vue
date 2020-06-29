@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-wx-vue",
+  "version": "0.0.2",
+  "description": "wx-vue plugin for vue-cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex8088/vue-cli-plugin-wx-vue.git"
+  },
+  "keywords": [
+    "wx-vue",
+    "vue",
+    "vue-cli",
+    "plugin",
+    "cli"
+  ],
+  "author": "alex.wei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex8088/vue-cli-plugin-wx-vue/issues"
+  },
+  "homepage": "https://github.com/alex8088/vue-cli-plugin-wx-vue#readme"
+}
